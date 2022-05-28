@@ -1,0 +1,14 @@
+7
+121            Microelectronic_Circuits                                        S.Sedra_Kenneth                         4e
+    
+122            Electronic_Devices_and_Circuit_Theory                           L.Boylestad_and Louis Nashelsky                      3e
+     
+123            Operational_Amplifier_and_Linear_Integrated_Circuits            Robert_F.Coughlin                8e
+    
+124            Principles_of_Electronics                                       V.K.Rohit_Mehta                                  5e
+    
+125            Op-Amp_and_Linear_Integrated_Circuits                           Ramakant_A.Gayakward     3e
+     
+126            Basic_Electronics                                                B.L.Theraja                                                4e
+    
+127            Digital_Logic_and_Computer_Design                                M.Morris_Mano                                              2e
